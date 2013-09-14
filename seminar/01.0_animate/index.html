@@ -1,0 +1,19 @@
+<html>
+<body>
+<style>canvas{border: 3px solid red;}</style>
+<canvas id="pew"></canvas>
+<script>
+    var canvas = document.getElementById('pew'),
+        width = 1920 / 4,
+        height = 1080 / 4,
+        context = canvas.getContext("2d");
+
+    canvas.width = width;
+    canvas.height = height;
+
+    var diameter = 50;
+    context.fillStyle = '#ff3700';
+    context.fillRect((width - diameter) / 2, (height - diameter) / 2, diameter, diameter);
+</script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<sync rows="128">
+	<tracks>
+		<track name="scene">
+			<key row="0" value="0" interpolation="0"/>
+			<key row="32" value="1" interpolation="0"/>
+		</track>
+		<track name="rectBG:R">
+			<key row="0" value="240" interpolation="0"/>
+			<key row="16" value="0" interpolation="0"/>
+		</track>
+		<track name="rectBG:G">
+			<key row="0" value="192" interpolation="0"/>
+			<key row="16" value="0" interpolation="0"/>
+		</track>
+		<track name="rectBG:B">
+			<key row="0" value="133" interpolation="0"/>
+			<key row="16" value="92" interpolation="0"/>
+		</track>
+		<track name="rectBG:A">
+			<key row="0" value="1" interpolation="0"/>
+		</track>
+		<track name="rect:diameter">
+			<key row="0" value="56" interpolation="1"/>
+			<key row="8" value="90" interpolation="0"/>
+			<key row="10" value="30" interpolation="0"/>
+			<key row="12" value="120" interpolation="0"/>
+			<key row="14" value="60" interpolation="0"/>
+			<key row="16" value="100" interpolation="1"/>
+			<key row="32" value="45" interpolation="0"/>
+		</track>
+		<track name="rect:R">
+			<key row="0" value="104" interpolation="0"/>
+			<key row="16" value="104" interpolation="1"/>
+			<key row="32" value="0" interpolation="0"/>
+		</track>
+		<track name="rect:G">
+			<key row="0" value="20" interpolation="0"/>
+			<key row="16" value="20" interpolation="0"/>
+			<key row="32" value="0" interpolation="0"/>
+		</track>
+		<track name="rect:B">
+			<key row="0" value="90" interpolation="0"/>
+			<key row="16" value="90" interpolation="0"/>
+			<key row="32" value="0" interpolation="0"/>
+		</track>
+		<track name="rect:A">
+			<key row="0" value="1" interpolation="0"/>
+		</track>
+		<track name="circBG:R">
+			<key row="0" value="34" interpolation="0"/>
+		</track>
+		<track name="circBG:G">
+			<key row="0" value="34" interpolation="0"/>
+		</track>
+		<track name="circBG:B">
+			<key row="0" value="34" interpolation="0"/>
+		</track>
+		<track name="circBG:A">
+			<key row="0" value="1" interpolation="0"/>
+		</track>
+		<track name="circ:diameter">
+			<key row="0" value="45" interpolation="1"/>
+			<key row="8" value="99" interpolation="0"/>
+		</track>
+		<track name="circ:R">
+			<key row="0" value="45" interpolation="0"/>
+			<key row="8" value="250" interpolation="0"/>
+		</track>
+		<track name="circ:G">
+			<key row="0" value="65" interpolation="0"/>
+		</track>
+		<track name="circ:B">
+			<key row="0" value="23" interpolation="0"/>
+		</track>
+		<track name="circ:A">
+			<key row="0" value="1" interpolation="0"/>
+		</track>
+	</tracks>
+	<bookmarks/>
+</sync>
